@@ -1,6 +1,6 @@
 ﻿
 ## Directions
-Write a program to implement an undirected graph.   
+##Write a program to implement an undirected graph.   
 Use the adjacency matrix to implement the graph.  
 Let your program be menu driven. 
 
@@ -19,9 +19,9 @@ Allowing the user the following options:
 5. List all vertices that are adjacent to a specified vertex.
 6. Print out vertices using depth first search.
 7. Print out vertices using breadth first search.
-8. **Check for connectivity (10 points)**
-9. **Check for completeness (10 points)**
-10. **Find the minimum spanning tree for the graph, if the graph is connected. (10 points)**
+8. **Check for connectivity **
+9. **Check for completeness **
+10. **Find the minimum spanning tree for the graph, if the graph is connected. **
 11. Exit program
 
 **Bold indicates extra credit options**
