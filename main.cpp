@@ -119,7 +119,7 @@ int main() {
             string print = r.Complete();
             cout << print << endl;
         } else if (x == 10) {
-
+            cout << "not yet completed" << endl;
         } else if (x == 11) {
             cout << "GoodBye";
         } else {
